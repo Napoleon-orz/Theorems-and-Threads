@@ -10,12 +10,7 @@ draft: false
 This article uses the site's Markdown template. Remove the "draft: true" line
 when you are ready to publish.
 -->
-
-# The Loop We Wrote: Time Travel, Gods, and the Four Yugas
-
 *Theorems and Threads, by Shiv Umahiya*
-
-> A speculative essay connecting time-travel physics with the four Yugas. The physics discussed is real; the proposed connection to scripture is a thought experiment, not an established theory.
 
 ---
 
@@ -246,4 +241,4 @@ And if the loop *is* real, then at least one thing is certain: whoever is writin
 - Sri Aurobindo's commentaries on the Isha Upanishad
 - The Vishnu, Bhagavata, Brahma and Markandeya Puranas
 
-*If you have your own reading of the Yugas, or a flaw in my argument, the comments are open. The best theories survive being attacked.*
+*If you have your own reading of the Yugas, or a flaw in my argument, contact me via mail. The best theories survive being attacked.*
